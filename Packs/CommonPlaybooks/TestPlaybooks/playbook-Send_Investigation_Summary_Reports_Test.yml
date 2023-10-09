@@ -420,7 +420,7 @@ tasks:
     quietmode: 0
     scriptarguments:
       seconds:
-        simple: "10"
+        simple: "30"
     separatecontext: false
     skipunavailable: false
     task:
@@ -428,7 +428,7 @@ tasks:
       description: Sleep for X seconds
       id: b14a7f32-337e-4ff6-837e-c710eca31804
       iscommand: false
-      name: Wait 10 seconds
+      name: Wait 30 seconds
       script: Sleep
       type: regular
       version: -1
@@ -452,7 +452,7 @@ tasks:
     quietmode: 0
     scriptarguments:
       seconds:
-        simple: "10"
+        simple: "30"
     separatecontext: false
     skipunavailable: false
     task:
@@ -460,7 +460,7 @@ tasks:
       description: Sleep for X seconds
       id: 2d2ef7ad-0b31-4e61-838f-1acba37bc253
       iscommand: false
-      name: Wait 10 seconds
+      name: Wait 30 seconds
       script: Sleep
       type: regular
       version: -1
